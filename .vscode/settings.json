@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "hci.h": "c",
+        "uuid.h": "c",
+        "gatt.h": "c",
+        "hrs.h": "c",
+        "temp.h": "c",
+        "bas.h": "c",
+        "byteorder.h": "c"
+    }
+}
